@@ -1,4 +1,4 @@
-# 🧮 Modern Web Calculator
+# Modern Web Calculator
 
 > **A sleek, responsive web application implementing arithmetic logic, dynamic display updates, and robust error handling using vanilla JavaScript.**
 
